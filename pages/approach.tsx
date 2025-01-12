@@ -1,3 +1,5 @@
+/* eslint-disable react/no-unescaped-entities */
+
 import '../app/globals.css' //Apply consistent style
 import Image from "next/image";
 import { Geist, Geist_Mono } from "next/font/google";

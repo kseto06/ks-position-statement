@@ -21,12 +21,12 @@ const Approach = () => {
             {/* Title */}
             <div className={geistSans.className}>
                 <h1 className="text-inside text-decimal text-xl sm:text-3xl font-[family-name:var(--font-geist-sans)] max-w-lg mx-auto relative w-[max-content] before:absolute before:inset-0 before:animate-typewriter before:bg-black after:absolute after:inset-0 after:w-[0.125em] after:animate-cursor after:bg-white">
-                    Current Approach to Engineering
+                    Approach to Engineering
                 </h1>
             </div>
             <div className={geistSans.className}>
                 <h3 className="text-inside text-decimal text-xl sm:text-xl font-[family-name:var(--font-geist-sans)] max-w-xl mx-auto">
-                    How do I define engineering, design, and engineering design?
+                    How do I define and approach engineering, design, and engineering design?
                 </h3>
             </div>
             {/* Text */}

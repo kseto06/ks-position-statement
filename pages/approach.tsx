@@ -20,12 +20,12 @@ const Approach = () => {
         <main className="flex flex-col gap-8 row-start-2 items-start sm:items-start">
             {/* Title */}
             <div className={geistSans.className}>
-                <h1 className="text-inside text-decimal text-xl sm:text-3xl font-[family-name:var(--font-geist-sans)] max-w-lg mx-auto relative w-[max-content] before:absolute before:inset-0 before:animate-typewriter before:bg-black after:absolute after:inset-0 after:w-[0.125em] after:animate-cursor after:bg-white">
+                <h1 className="text-inside text-decimal text-xl sm:text-3xl font-[family-name:var(--font-geist-sans)] mx-auto relative w-[max-content] before:absolute before:inset-0 before:animate-typewriter before:bg-black after:absolute after:inset-0 after:w-[0.125em] after:animate-cursor after:bg-white">
                     Approach to Engineering
                 </h1>
             </div>
             <div className={geistSans.className}>
-                <h3 className="text-inside text-decimal text-xl sm:text-xl font-[family-name:var(--font-geist-sans)] max-w-xl mx-auto">
+                <h3 className="text-inside text-decimal text-xl sm:text-xl font-[family-name:var(--font-geist-sans)] mx-auto">
                     How do I define and approach engineering, design, and engineering design?
                 </h3>
             </div>

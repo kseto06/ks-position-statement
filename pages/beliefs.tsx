@@ -19,7 +19,7 @@ const Beliefs = () => {
         <main className="flex flex-col gap-8 row-start-2 items-start sm:items-start">
             {/* Title */}
             <div className={geistSans.className}>
-                <h1 className="text-inside text-decimal text-xl sm:text-2xl font-[family-name:var(--font-geist-sans)] max-w-lg mx-auto">
+                <h1 className="text-inside text-decimal text-xl sm:text-2xl font-[family-name:var(--font-geist-sans)] max-w-lg mx-auto relative w-[max-content] before:absolute before:inset-0 before:animate-typewriter before:animation-delay-[2s] before:bg-black after:absolute after:inset-0 after:w-[0.125em] after:animate-cursor after:bg-white">
                     Beliefs and Values in Engineering Design
                 </h1>
             </div>

@@ -58,11 +58,10 @@ const Experiences = () => {
                     For example, being UTMIST's lead developer, I am constantly applying NGO frameworks to keep my team on the scope of the project and FDCR to brainstorm and implement ideas in code.
                     <br />
                     <br />
-                    Since I am constantly tackling large problems, I engage in engineering design always trying to think ahead of what I want my end goal to be. Since I perceive engineering design as a
-                    tool to model a vision, I believe that engineers should not be constrained to strictly following the FDCR model (i.e. I don't have to go through the framing process first, before I can start diverging). 
+                    Since I am constantly tackling large problems that involve many stakeholders, I engage in engineering design always trying to think ahead of what I want my end goal to be to try to maximize efficiency. 
                     I am constantly diverging and converging of what I want to design and produce for a project, even at the framing stage when I am only finding an opportunity; this allows me to think of an ultimate goal 
                     that I want to achieve and it provides me with better motivation to tackle and finish a project. For example, in my community pitch I identify cyclists in downtown Toronto who are at risk of injuries
-                    due to reckless driving. When I was ideating and framing this opportunity, I was already brainstorming ideas and designs in areas that I am interested in, such as making a computer vision to improve
+                    due to reckless driving. When I was ideating and framing this opportunity, I was already diverging ideas and designs in areas that I am interested in, such as designing computer vision systems to improve
                     the safety of the bikers. 
                 </p>
             </div>
